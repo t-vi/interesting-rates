@@ -9,8 +9,12 @@ I mainly use [Jupyter](http://jupyter.org/) notebooks and [pytorch](http://pytor
 
 Highlights:
 
-- A [one-factor CIR++ model (Cox-Ingersoll-Ross plus shift extension)](https://github.com/t-vi/interesting-rates/blob/master/interest-rate-models/CIR.ipynb)
-- A [one-factor Hull-White model](https://github.com/t-vi/interesting-rates/blob/master/interest-rate-models/Hull-White-1f.ipynb)
+# Interest-Rate-Models
+- A [one-factor CIR++ model (Cox-Ingersoll-Ross plus shift extension)](interest-rate-models/CIR.ipynb)
+- A [one-factor Hull-White model](interest-rate-models/Hull-White-1f.ipynb)
+
+# Yield-Curve
+- A [small notebook on the Nelson-Siegel-Svensson method](yieldcurve/nelson-siegel-svensson.ipynb)
 
 #### The fine print
 
